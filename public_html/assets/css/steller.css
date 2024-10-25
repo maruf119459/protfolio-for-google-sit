@@ -11461,7 +11461,7 @@ pre {
 }
 
 .header {
-  height: 94vh;
+  height: auto;
   min-height: 650px;
   border-bottom: 1px solid #dee2e6;
 }
